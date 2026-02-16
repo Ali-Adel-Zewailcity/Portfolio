@@ -467,19 +467,8 @@ textarea {
 #skills-grid ::selection,
 #projects-grid ::selection,
 #view-projects-button::selection {
-  background-color: #111727;
-  color: #FEF3C7
-}
-
-#portfolio-logo ::selection {
-  background-color: #f1ce76;
-  color: #FEF3C7
-}
-
-#portfolio-logo span::selection {
-  background-color: #f1ce76;
-  color: #92400E
-
+  color: #111727;
+  background-color: #FEF3C7
 }
 
 /* Waving hand animation */
