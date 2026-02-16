@@ -129,6 +129,15 @@
               ></span>
             </a>
             <a
+              href="#certificates"
+              class="nav-link text-amber-100 hover:text-amber-400 transition-colors duration-300 relative group"
+            >
+              Certificates
+              <span
+                class="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-amber-600 to-amber-400 group-hover:w-full transition-all duration-300"
+              ></span>
+            </a>
+            <a
               href="#contact"
               class="nav-link text-amber-100 hover:text-amber-400 transition-colors duration-300 relative group"
             >
@@ -171,6 +180,11 @@
             href="#skills"
             class="block py-2 text-amber-100 hover:text-amber-400 transition-colors duration-300"
             >Skills</a
+          >
+          <a
+            href="#certificates"
+            class="block py-2 text-amber-100 hover:text-amber-400 transition-colors duration-300"
+            >Certificates</a
           >
           <a
             href="#contact"
@@ -526,6 +540,47 @@
         </div>
       </div>
     </section>
+
+    <!-- Certificates Section -->
+    <section id="certificates" class="py-20 relative bg-stone-900/30">
+      <div class="container mx-auto px-4">
+        <div class="animate-on-scroll">
+          <h2
+            class="text-4xl md:text-5xl font-bold text-center mb-16 text-amber-100"
+          >
+            Certificates
+          </h2>
+          <div
+            class="space-y-12 max-w-6xl mx-auto"
+            id="certificates-grid"
+          >
+            <!-- Certificates will be populated by JS -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Certificate Lightbox Modal -->
+    <div id="cert-modal" class="cert-modal-overlay" style="display:none;">
+      <div class="cert-modal-backdrop"></div>
+      <div class="cert-modal-content">
+        <button class="cert-modal-close" id="cert-modal-close">
+          <i data-lucide="x" class="w-6 h-6"></i>
+        </button>
+        <button class="cert-modal-arrow cert-modal-prev" id="cert-modal-prev">
+          <i data-lucide="chevron-left" class="w-8 h-8"></i>
+        </button>
+        <div class="cert-modal-body">
+          <img id="cert-modal-img" class="cert-modal-image" src="" alt="" />
+          <h3 id="cert-modal-title" class="cert-modal-title"></h3>
+          <p id="cert-modal-desc" class="cert-modal-desc"></p>
+          <span id="cert-modal-counter" class="cert-modal-counter"></span>
+        </div>
+        <button class="cert-modal-arrow cert-modal-next" id="cert-modal-next">
+          <i data-lucide="chevron-right" class="w-8 h-8"></i>
+        </button>
+      </div>
+    </div>
 
     <!-- Experience Section -->
     <!-- <section id="experience" class="py-20 relative bg-stone-900/30">
