@@ -476,19 +476,19 @@ function renderCertificatesSection() {
     html += '<div class="animate-on-scroll relative group">' +
       '<div class="absolute inset-0 bg-gradient-to-br from-amber-700/20 to-amber-900/20 rounded-lg transform rotate-1 group-hover:rotate-0 transition-transform duration-300"></div>' +
       '<div class="cert-provider-card relative bg-stone-800/70 backdrop-blur-sm rounded-lg border-2 border-amber-700/30 hover:border-amber-600/60 transition-all duration-300 overflow-hidden">' +
-        '<div class="cert-provider-header">' +
+      '<div class="cert-provider-header">' +
           '<div class="cert-provider-icon' + (provider.logo ? ' cert-provider-icon-logo' : '') + '">' +
-            (provider.logo
+      (provider.logo
               ? '<img src="' + provider.logo + '" alt="' + provider.name + '" class="cert-provider-logo-img" />'
               : '<i data-lucide="' + (provider.icon || 'award') + '" class="w-6 h-6 text-white"></i>') +
           '</div>' +
           '<h3 class="cert-provider-name">' + provider.name + '</h3>' +
           '<span class="cert-provider-count">' + provider.certificates.length + ' certificate' + (provider.certificates.length > 1 ? 's' : '') + '</span>' +
         '</div>' +
-        '<div class="cert-carousel-wrapper">' +
-          arrowsHtml +
+      '<div class="cert-carousel-wrapper">' +
+      arrowsHtml +
           '<div class="cert-carousel" id="carousel-' + i + '">' +
-            certsHtml +
+      certsHtml +
           '</div>' +
         '</div>' +
       '</div>' +
@@ -541,6 +541,7 @@ function openCertModal(providers, providerIndex, certIndex) {
   if (!modal) return;
   modal.style.display = "flex";
   document.body.style.overflow = "hidden";
+  document.documentElement.style.overflow = "hidden";
 
   updateCertModal();
 
@@ -578,6 +579,7 @@ function closeCertModal() {
   setTimeout(function() {
     modal.style.display = "none";
     document.body.style.overflow = "";
+    document.documentElement.style.overflow = "";
   }, 300);
 }
 
