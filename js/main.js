@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (yearEl) yearEl.textContent = new Date().getFullYear();
 
   // Render all dynamic content
-  renderExperienceSection();
+  // renderExperienceSection();
   renderSkillsSection();
   renderCertificatesSection();
 
