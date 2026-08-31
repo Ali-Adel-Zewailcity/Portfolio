@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /images/certificates/
+Allow: /images/projects/
+
+Sitemap: https://ali-adel-zewailcity.github.io/Portfolio/sitemap.xml

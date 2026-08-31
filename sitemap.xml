@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ali-adel-zewailcity.github.io/Portfolio/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Projects -->
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/projects/Delivery%20Robot%20Path%20Planning.png</image:loc>
+      <image:title>Delivery Robot Path Planning</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/projects/Information%20Retrieval%20System.png</image:loc>
+      <image:title>Information Retrieval System</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/projects/Media%20Files%20Manager.png</image:loc>
+      <image:title>Media Files Manager</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/projects/Movie%20Serach%20Engine.png</image:loc>
+      <image:title>Movie Search Engine</image:title>
+    </image:image>
+
+    <!-- Certificates: DataCamp -->
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/DataCamp/Python%20Data%20Associate.png</image:loc>
+      <image:title>Python Data Associate</image:title>
+    </image:image>
+
+    <!-- Certificates: EYouth -->
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/EYouth/AI%20For%20Content%20Marketing%20-%20Certificate%20_%20EYouth%20Business.png</image:loc>
+      <image:title>AI For Content Marketing - Certificate _ EYouth Business</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/EYouth/Digital%20Marketing%20Strategy%20-%20Certificate%20_%20EYouth%20Business_061735.png</image:loc>
+      <image:title>Digital Marketing Strategy - Certificate _ EYouth Business_061735</image:title>
+    </image:image>
+
+    <!-- Certificates: HackerRank -->
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/HackerRank/python_basic%20certificate%20hackerrank.png</image:loc>
+      <image:title>python_basic certificate hackerrank</image:title>
+    </image:image>
+
+    <!-- Certificates: ITIDA -->
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/ITIDA/ITITDA%20%2B%20GIGS.jpg</image:loc>
+      <image:title>ITITDA GIGS</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/ITIDA/InnovEgypt%20-%20Tiec%20-%20ITIDA%20Certificate.png</image:loc>
+      <image:title>InnovEgypt - Tiec - ITIDA Certificate</image:title>
+    </image:image>
+
+    <!-- Certificates: Others -->
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Others/Azure%20AI%20Fundamentals%20Workshop.png</image:loc>
+      <image:title>Azure AI Fundamentals Workshop</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Others/Azure%20Cloud%20Fundamentals%20Workshop.png</image:loc>
+      <image:title>Azure Cloud Fundamentals Workshop</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Others/Azure%20Data%20Fundamentals%20Workshop.png</image:loc>
+      <image:title>Azure Data Fundamentals Workshop</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Others/Sector%20B5%20IoT.png</image:loc>
+      <image:title>Sector B5 IoT</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Others/Sprint%20Data%20Analytics%20with%20Artificial%20Intelligence.png</image:loc>
+      <image:title>Sprint Data Analytics with Artificial Intelligence</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Others/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A.png</image:loc>
+      <image:title>E-Learning Certificate</image:title>
+    </image:image>
+
+    <!-- Certificates: Udemy -->
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Udemy/UC-Automate%20Everything%20with%20Python.jpeg</image:loc>
+      <image:title>UC-Automate Everything with Python</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Udemy/UC-Learn%20Python%20by%20creating%2010%20apps%20with%20tkinter.jpeg</image:loc>
+      <image:title>UC-Learn Python by creating 10 apps with tkinter</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Udemy/UC-Mastering%204%20critical%20SKILLS%20using%20C%2B%2B%2017.jpeg</image:loc>
+      <image:title>UC-Mastering 4 critical SKILLS using C++ 17</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Udemy/UC-Python%20for%20Data%20Science%20and%20Machine%20Leaarning.jpeg</image:loc>
+      <image:title>UC-Python for Data Science and Machine Leaarning</image:title>
+    </image:image>
+  </url>
+</urlset>
