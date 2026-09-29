@@ -1146,6 +1146,17 @@
                   </div>
                   <span class="text-lg">GitHub Profile</span>
                 </a>
+                <button
+                  onclick="navigator.clipboard.writeText('+201558269113').then(() => { const s = this.querySelector('#phone-label'); s.textContent = 'Copied!'; setTimeout(() => s.textContent = '+20 1558269113', 2000); })"
+                  class="social-link flex items-center gap-4 text-stone-300 hover:text-amber-400 transition-colors group cursor-pointer bg-transparent border-none p-0 text-left"
+                >
+                  <div
+                    class="w-12 h-12 bg-gradient-to-br from-amber-700 to-amber-600 rounded-lg flex items-center justify-center group-hover:scale-110 transition-transform"
+                  >
+                    <i data-lucide="phone" class="w-6 h-6 text-white"></i>
+                  </div>
+                  <span id="phone-label" class="text-lg">+20 1558269113</span>
+                </button>
               </div>
             </div>
 
