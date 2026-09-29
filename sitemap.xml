@@ -56,8 +56,16 @@
       <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/ITIDA/InnovEgypt%20-%20Tiec%20-%20ITIDA%20Certificate.png</image:loc>
       <image:title>InnovEgypt - Tiec - ITIDA Certificate</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/ITIDA/DEPI_React_Frontend_Web_Developer.webp</image:loc>
+      <image:title>DEPI React Frontend Web Developer</image:title>
+    </image:image>
 
     <!-- Certificates: Others -->
+    <image:image>
+      <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/ITIDA/DEPI_Business_English_Track.webp</image:loc>
+      <image:title>DEPI Business English Track</image:title>
+    </image:image>
     <image:image>
       <image:loc>https://ali-adel-zewailcity.github.io/Portfolio/images/certificates/Others/Azure%20AI%20Fundamentals%20Workshop.png</image:loc>
       <image:title>Azure AI Fundamentals Workshop</image:title>
