@@ -327,6 +327,13 @@ function renderCertificatesSection() {
       logo: "images/ititda.jpeg",
       certificates: [
         {
+          title: "DEPI | React Frontend Web Developer",
+          description:
+            "Digital Egypt Pioneers Initiative Internship Certificate supervised by the Ministry of Communications and Information Technology of Egypt",
+          image:
+            "images/certificates/ITIDA/DEPI_React_Frontend_Web_Developer.webp",
+        },
+        {
           title: "InnovEgypt - TIEC - ITIDA",
           description:
             "InnovEgypt program certificate by TIEC and ITIDA — innovation and entrepreneurship training program.",
@@ -367,26 +374,26 @@ function renderCertificatesSection() {
         },
       ],
     },
-    {
-      name: "EYouth",
-      logo: "images/eyouth.png",
-      certificates: [
-        {
-          title: "AI For Content Marketing",
-          description:
-            "EYouth Business certificate for AI-powered content marketing strategies and tools.",
-          image:
-            "images/certificates/EYouth/AI For Content Marketing - Certificate _ EYouth Business.png",
-        },
-        {
-          title: "Digital Marketing Strategy",
-          description:
-            "EYouth Business certificate for digital marketing strategy, planning, and execution.",
-          image:
-            "images/certificates/EYouth/Digital Marketing Strategy - Certificate _ EYouth Business_061735.png",
-        },
-      ],
-    },
+    // {
+    //   name: "EYouth",
+    //   logo: "images/eyouth.png",
+    //   certificates: [
+    //     {
+    //       title: "AI For Content Marketing",
+    //       description:
+    //         "EYouth Business certificate for AI-powered content marketing strategies and tools.",
+    //       image:
+    //         "images/certificates/EYouth/AI For Content Marketing - Certificate _ EYouth Business.png",
+    //     },
+    //     {
+    //       title: "Digital Marketing Strategy",
+    //       description:
+    //         "EYouth Business certificate for digital marketing strategy, planning, and execution.",
+    //       image:
+    //         "images/certificates/EYouth/Digital Marketing Strategy - Certificate _ EYouth Business_061735.png",
+    //     },
+    //   ],
+    // },
     {
       name: "Udemy",
       logo: "images/udemy.png",
@@ -427,9 +434,16 @@ function renderCertificatesSection() {
       logo: null,
       certificates: [
         {
+          title: "DEPI | Business English Track",
+          description:
+            "Digital Egypt Pioneers Initiative Internship",
+          image:
+            "images/certificates/ITIDA/DEPI_Business_English_Track.webp",
+        },
+        {
           title: "IoT Workshop",
           description:
-            "Sector B5 IoT Workshop certificate covering IoT fundamentals, networking protocols, and hardware firmware building.",
+            "Sector B5 IoT Workshop certificate covering IoT fundamentals, networking protocols, MQTT Protocol and hardware firmware building.",
           image:
             "images/certificates/Others/Sector B5 IoT.png",
         },
@@ -443,7 +457,7 @@ function renderCertificatesSection() {
         {
           title: "Azure Cloud Fundamentals Workshop",
           description:
-            "Microsoft Azure Cloud Fundamentals workshop completion certificate covering cloud computing and Azure services.",
+            "Microsoft Azure Cloud Fundamentals workshop completion certificate covering cloud computing and Azure cloud services.",
           image:
             "images/certificates/Others/Azure Cloud Fundamentals Workshop.png",
         },
@@ -455,15 +469,29 @@ function renderCertificatesSection() {
             "images/certificates/Others/Azure Data Fundamentals Workshop.png",
         },
         {
+          title: "AI For Content Marketing",
+          description:
+            "EYouth Business certificate for AI-powered content marketing strategies and tools.",
+          image:
+            "images/certificates/EYouth/AI For Content Marketing - Certificate _ EYouth Business.png",
+        },
+        {
+          title: "Digital Marketing Strategy",
+          description:
+            "EYouth Business certificate for digital marketing strategy, planning, and execution.",
+          image:
+            "images/certificates/EYouth/Digital Marketing Strategy - Certificate _ EYouth Business_061735.png",
+        },
+        {
           title: "Sprint Data Analytics with AI",
           description:
-            "Sprint Data Analytics with Artificial Intelligence program completion certificate.",
+            "Sprint Data Analytics with Artificial Intelligence Webinar.",
           image:
             "images/certificates/Others/Sprint Data Analytics with Artificial Intelligence.png",
         },
         {
           title: "E-Learning Certificate",
-          description: "Electronic learning completion certificate.",
+          description: "Electronic learning Webinar supervised by the Ministry of Communications and Information Technology of Egypt.",
           image: "images/certificates/Others/التعلم الإلكتروني.png",
         },
       ],
